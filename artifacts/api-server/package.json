@@ -31,7 +31,7 @@
     "pdf-parse": "^1.1.4",
     "pino": "^9",
     "pino-http": "^10",
-    "sanitize-html": "^2.17.2",
+    "sanitize-html": "^2.17.7",
     "socket.io": "^4.8.3",
     "zod": "catalog:",
     "zod-to-json-schema": "^3.25.2"
